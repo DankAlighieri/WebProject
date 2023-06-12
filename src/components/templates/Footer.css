@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.footer-item {
+    margin-left: auto;
+}
+
