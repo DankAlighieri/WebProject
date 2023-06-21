@@ -11,8 +11,7 @@ export default props =>
             <div className="headerColumn">
                 <div className="headerItem fs-1 fw-bold">
                     Autorregulação da 
-                </div>
-                <div className="headerItem fs-1 fw-bold">
+                    <br />
                     Aprendizagem 
                 </div>
                 <Nav />

@@ -1,12 +1,13 @@
 .header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
 }
 
 .contacts {
     align-self: center;
     font-size: 1.2em;
+    margin-bottom: -75px;
+    padding-top: 25px;
+    padding-left: 10px;
 }
 
 .headerColumn {
@@ -17,4 +18,5 @@
 
 .headerItem {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }

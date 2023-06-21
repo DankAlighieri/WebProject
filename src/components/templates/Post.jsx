@@ -1,6 +1,6 @@
 import './Post.css';
 import React from "react";
-import sonic from "../../assets/images/Fv5rti-WcAAd31A.jpg"
+import sonic from "../../assets/images/FxAjlNEWIAEhBvY.jpeg"
 
 export default props => 
     <div className="post-main">

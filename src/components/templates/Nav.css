@@ -13,7 +13,7 @@ a {
 a:hover {
     color: white;
     background-color: var(--bg-dark);
-    padding: 5px 7px;
+    padding: 5px 5px;
     border-radius: 20%;
 }
 
